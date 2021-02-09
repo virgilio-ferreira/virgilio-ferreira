@@ -1,11 +1,11 @@
-<h1 align="center">Olá 👋, Eu sou Virgílio José Martins Ferreira Neto</h1>
+<h1 align="center">Olá 👋, Eu sou Virgílio Martins Ferreira</h1>
 <h3 align="center">Um dedicado estudante desenvolvedor júnior da Trybe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virgilio-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="virgilio-ferreira" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virgilio-ferreira" alt="virgilio-ferreira" /></a> </p>
-
 - 🌱 I’m currently learning **Front-end e Back-end**
+
+- Aprendendo e me desenvolvendo **a cada dia**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,4 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virgilio-ferreira&show_icons=true&locale=en" alt="virgilio-ferreira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virgilio-ferreira&" alt="virgilio-ferreira" /></p>
+
 
