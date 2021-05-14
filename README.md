@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front-end e Back-end**
 
-- Aprendendo e me desenvolvendo **a cada dia**
+- :telescope: Aprendendo e me desenvolvendo **a cada dia**
 
 
 <h3 align="left">Languages and Tools:</h3>
