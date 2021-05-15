@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I am Virgílio Martins Ferreira</h1>
-<h3 align="center">A dedicated student from Trybe to be a full stack junior developer </h3>
+<h3 align="center">A dedicated junior full stack student from Trybe</h3>
+
 
 <img align="left" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621053548696.png" alt="my octocat" height="220" width="220" />
 
