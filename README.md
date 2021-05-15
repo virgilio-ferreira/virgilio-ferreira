@@ -1,11 +1,17 @@
-<h1 align="center">Olá 👋, Eu sou Virgílio Martins Ferreira</h1>
-<h3 align="center">Um dedicado estudante desenvolvedor full stack júnior da Trybe</h3>
+<h1 align="center">Hi 👋, I am Virgílio Martins Ferreira</h1>
+<h3 align="center">A dedicated student from Trybe to be a full stack junior developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virgilio-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="virgilio-ferreira" /> </p>
+<img align="left" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621053548696.png" alt="my octocat" height="220" width="220" />
 
+<div align="right">
+  
+<div align="left">
+  
+  <br>
+  
 - 🌱 I’m currently learning **Front-end e Back-end**
 
-- :telescope: Aprendendo e me desenvolvendo **a cada dia**
+- :telescope: Learning and developing **every day**
 
 - 👨‍💻 All of my projects are available at [https://github.com/virgilio-ferreira](https://github.com/virgilio-ferreira)
 
@@ -13,7 +19,12 @@
 
 - ⚡ Fun fact **I can juggle, play the tambourine and write code, but usually only one at a time.**
 
-<img align="center" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621053548696.png" alt="my octocat" height="240" width="240" />
+<br>
+
+<div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=virgilio-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="virgilio-ferreira" /> </p>
+<div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
