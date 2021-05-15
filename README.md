@@ -14,11 +14,11 @@
 
 - :telescope: Learning and developing **every day**
 
-- 👨‍💻 All of my projects are available at [https://github.com/virgilio-ferreira](https://github.com/virgilio-ferreira)
+- 👨‍💻 All of my projects are available at: [https://github.com/virgilio-ferreira](https://github.com/virgilio-ferreira)
 
-- 📫 How to reach me **virgilio.ferreiraneto@gmail.com**
+- 📫 How to reach me: **virgilio.ferreiraneto@gmail.com**
 
-- ⚡ Fun fact **I can juggle, play the tambourine and write code, but usually only one at a time.**
+- ⚡ Fun fact: **I can juggle, play the tambourine and write code, but usually only one at a time.**
 
 <br>
 
